@@ -1,5 +1,5 @@
 # blackjack
-Text-based blackjack game made in Python with the following constraints:
+Text-based blackjack game made in Replit with Python given the following constraints:
  - Create a deck of 52 cards
  - Shuffle the deck
  - Ask the Player for their bet
